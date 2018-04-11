@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+My response (reflections)!
+What new skills have you learned?
+	The new skill which I learned through this was how to do figure out and research new thing on my own and I developed a self learning skills.
+What has been easy?
+	Everything was pretty much easy because of the well structured course and clear instruction.
+
+What has been difficult?
+	The difficult as far I found was figuring out how the chorme plugin works ,but utlimately I was able to figure out using frineds from slack and udacity discussion form.
+
+ How have you used the problem solving strategies from the first project to overcome challenges so far?
+ 	Carefully read the instruction given and implemented the tasks one by one and then when I am need of help looked into mozilla HTML reference it helped a lot through this course 
