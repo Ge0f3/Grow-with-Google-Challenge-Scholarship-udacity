@@ -4,6 +4,9 @@ table, td, th {
   border: 1px solid black;
   background-color: white;
 }
+.jumbotron {
+    background: none !important
+}
 
 table {
   border-collapse: collapse;
